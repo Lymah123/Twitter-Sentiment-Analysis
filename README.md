@@ -1,2 +1,3 @@
 # Twitter-Sentiment-Analysis
 Sentiment analysis using kaggle dataset
+Twitter feeling investigation is performed to distinguish the opinions of individuals towards different points. For this undertaking, we will dissect the opinion of individuals towards Pfizer antibodies. We will utilize the information accessible on Kaggle to make this AI model. The gathered tweets from Twitter will be dissected utilizing AI to distinguish the various opinions present in the tweets. The various opinions distinguished in this venture incorporate positive feeling, pessimistic feeling and unbiased feeling. We will likewise be utilizing various classifiers to see which classifier gives the best model precision.
